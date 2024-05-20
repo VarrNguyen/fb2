@@ -14,10 +14,10 @@ import {
     MagnifyingGlass,
     WarningCircle,
 } from '@phosphor-icons/react';
-import Card from '~/components/Card';
-import ModalCustom from '~/components/Modal/Modal';
-import Form from '~/components/Form';
-import Policy from '~/components/Policy';
+import Card from '../../components/Card';
+import ModalCustom from '../../components/Modal/Modal';
+import Form from '../../components/Form';
+import Policy from '../../components/Policy';
 
 const cx = classNames.bind(styles);
 
